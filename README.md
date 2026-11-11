@@ -25,4 +25,43 @@ Es importante que las plataformas mantengan protegida la información de sus usu
 6. El futuro de la inteligencia artificial
 La inteligencia artificial seguirá evolucionando y tendrá cada vez más presencia en nuestra vida cotidiana, ayudándonos en la medicina, la educación y el mundo laboral. Sin embargo, debemos utilizarla de manera responsable y asegurarnos de que sea segura, confiable y accesible para todos.
 
+7. Ciência de Dados – Impacto de um modelo preditivo com baixa precisão
+Se o modelo estatístico utilizado pela equipe de segurança apresentasse um R² muito baixo ou um RMSE elevado, suas previsões seriam pouco confiáveis, dificultando a identificação de ligações fraudulentas feitas por inteligência artificial.
+
+O R² baixo indicaria que o modelo explica pouco dos dados analisados, enquanto o RMSE elevado mostraria que as previsões apresentam erros significativos.
+
+Nesse cenário, poderiam ocorrer duas situações perigosas:
+
+Falsos positivos: o modelo identifica uma ligação verdadeira como golpe, causando medo, bloqueios desnecessários e desconfiança nas famílias.
+Falsos negativos: o modelo identifica uma ligação fraudulenta como verdadeira, fazendo com que as famílias acreditem nos criminosos e transfiram dinheiro, sofrendo prejuízos financeiros e emocionais.
+O governo poderia tomar decisões erradas e deixar criminosos agirem sem identificação. Por isso, não deveria utilizar a IA como única fonte de decisão, mas também contar com análise humana e investigação policial.
+
+8. Técnicas Integradas – Pitch de Crise de 2 minutos
+Tema: Combate à extorsão em massa por clonagem de voz utilizando Inteligência Artificial.
+
+1. Abertura – Captura da atenção
+
+Senhoras e senhores, imaginem receber uma ligação com a voz de um filho ou familiar pedindo socorro urgente e solicitando uma transferência de dinheiro. A voz parece verdadeira, mas pode ser uma inteligência artificial utilizada por criminosos. Precisamos agir para proteger a população.
+
+2. Problema – Terror psicológico e extorsão em massa
+
+Criminosos utilizam IA para clonar vozes e simular situações de sequestro, acidentes e emergências familiares. O objetivo é provocar medo e pressionar as vítimas a transferirem dinheiro rapidamente, sem verificar a veracidade da ligação.
+
+3. Dados – Origem e qualidade da base analisada
+
+Nossa análise utiliza registros de denúncias, ligações suspeitas, relatos de vítimas e exemplos de áudios fraudulentos e legítimos. É importante verificar a origem, a qualidade e a atualização desses dados para evitar erros nas previsões.
+
+4. Solução e IA utilizada – Identificação dos golpes
+
+Propomos utilizar ferramentas de Inteligência Artificial e análise estatística para identificar padrões suspeitos nas ligações, como características da voz e sinais de manipulação digital. Um modelo poderá estimar a probabilidade de uma ligação ser fraudulenta, mas o resultado deverá ser combinado com a verificação humana.
+
+5. Impacto e próximos passos – Ação imediata
+
+Recomendamos criar alertas para ligações suspeitas, orientar as famílias a confirmar emergências por outro canal, estabelecer verificações antes de transferências e fortalecer a investigação policial.
+
+Também é importante acompanhar os falsos positivos e falsos negativos para melhorar a precisão do modelo
+
+
+Conclusão
+Concluímos que a inteligência artificial está cada vez mais presente em nossa vida e oferece muitos benefícios para a sociedade, facilitando tarefas e ajudando na resolução de problemas. Porém, também apresenta riscos relacionados à privacidade, à segurança e à divulgação de informações falsas. Por isso, é importante utilizar a tecnologia com responsabilidade, proteger os dados pessoais e sempre manter a participação humana nas decisões importantes. A inteligência artificial deve ser uma ferramenta para ajudar as pessoas e tornar a sociedade mais segura e eficiente.
 
