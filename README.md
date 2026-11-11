@@ -39,23 +39,23 @@ O governo poderia tomar decisões erradas e deixar criminosos agirem sem identif
 8. Técnicas Integradas – Pitch de Crise de 2 minutos
 Tema: Combate à extorsão em massa por clonagem de voz utilizando Inteligência Artificial.
 
-1. Abertura – Captura da atenção
+. Abertura – Captura da atenção
 
 Senhoras e senhores, imaginem receber uma ligação com a voz de um filho ou familiar pedindo socorro urgente e solicitando uma transferência de dinheiro. A voz parece verdadeira, mas pode ser uma inteligência artificial utilizada por criminosos. Precisamos agir para proteger a população.
 
-2. Problema – Terror psicológico e extorsão em massa
+. Problema – Terror psicológico e extorsão em massa
 
 Criminosos utilizam IA para clonar vozes e simular situações de sequestro, acidentes e emergências familiares. O objetivo é provocar medo e pressionar as vítimas a transferirem dinheiro rapidamente, sem verificar a veracidade da ligação.
 
-3. Dados – Origem e qualidade da base analisada
+. Dados – Origem e qualidade da base analisada
 
 Nossa análise utiliza registros de denúncias, ligações suspeitas, relatos de vítimas e exemplos de áudios fraudulentos e legítimos. É importante verificar a origem, a qualidade e a atualização desses dados para evitar erros nas previsões.
 
-4. Solução e IA utilizada – Identificação dos golpes
+. Solução e IA utilizada – Identificação dos golpes
 
 Propomos utilizar ferramentas de Inteligência Artificial e análise estatística para identificar padrões suspeitos nas ligações, como características da voz e sinais de manipulação digital. Um modelo poderá estimar a probabilidade de uma ligação ser fraudulenta, mas o resultado deverá ser combinado com a verificação humana.
 
-5. Impacto e próximos passos – Ação imediata
+. Impacto e próximos passos – Ação imediata
 
 Recomendamos criar alertas para ligações suspeitas, orientar as famílias a confirmar emergências por outro canal, estabelecer verificações antes de transferências e fortalecer a investigação policial.
 
