@@ -62,6 +62,6 @@ Recomendamos criar alertas para ligações suspeitas, orientar as famílias a co
 Também é importante acompanhar os falsos positivos e falsos negativos para melhorar a precisão do modelo
 
 
-Conclusão
+Conclusão:
 Concluímos que a inteligência artificial está cada vez mais presente em nossa vida e oferece muitos benefícios para a sociedade, facilitando tarefas e ajudando na resolução de problemas. Porém, também apresenta riscos relacionados à privacidade, à segurança e à divulgação de informações falsas. Por isso, é importante utilizar a tecnologia com responsabilidade, proteger os dados pessoais e sempre manter a participação humana nas decisões importantes. A inteligência artificial deve ser uma ferramenta para ajudar as pessoas e tornar a sociedade mais segura e eficiente.
 
