@@ -14,7 +14,7 @@ A inteligência artificial aprende o jeito de escrever do usuário analisando pa
 
 Os assistentes de voz utilizam Guardrails, que são regras de segurança programadas no Prompt do Sistema. Essas regras impedem respostas ofensivas, conselhos ilegais e ajudam a reduzir informações falsas ou alucinações. Assim, a inteligência artificial pode responder de maneira mais segura, respeitosa e responsável.
 
--
+
  
 4. ¿Cómo funcionan los algoritmos de recomendación?
 Los algoritmos analizan nuestras actividades en internet, como las publicaciones que vemos, los horarios en los que usamos las aplicaciones y los contenidos que nos gustan. Con esa información, seleccionan publicaciones similares a nuestros intereses. Esto puede crear una burbuja digital, haciendo que conozcamos menos opiniones y temas diferentes.
