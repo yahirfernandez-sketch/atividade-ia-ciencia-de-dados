@@ -14,8 +14,15 @@ A inteligência artificial aprende o jeito de escrever do usuário analisando pa
 
 Os assistentes de voz utilizam Guardrails, que são regras de segurança programadas no Prompt do Sistema. Essas regras impedem respostas ofensivas, conselhos ilegais e ajudam a reduzir informações falsas ou alucinações. Assim, a inteligência artificial pode responder de maneira mais segura, respeitosa e responsável.
 
----
+-
+ 
+4. ¿Cómo funcionan los algoritmos de recomendación?
+Los algoritmos analizan nuestras actividades en internet, como las publicaciones que vemos, los horarios en los que usamos las aplicaciones y los contenidos que nos gustan. Con esa información, seleccionan publicaciones similares a nuestros intereses. Esto puede crear una burbuja digital, haciendo que conozcamos menos opiniones y temas diferentes.
 
-Conclusão
+5. Privacidad y seguridad
+Es importante que las plataformas mantengan protegida la información de sus usuarios y no compartan datos personales sin autorización. Además, la inteligencia artificial cuenta con sistemas de protección llamados guardrails, que sirven para evitar contenidos peligrosos, respuestas inapropiadas y datos incorrectos.
 
-A inteligência artificial está presente em diversas aplicações do nosso cotidiano. Por isso, é importante desenvolver sistemas seguros, éticos e transparentes, protegendo os dados e a privacidade dos usuários.
+6. El futuro de la inteligencia artificial
+La inteligencia artificial seguirá evolucionando y tendrá cada vez más presencia en nuestra vida cotidiana, ayudándonos en la medicina, la educación y el mundo laboral. Sin embargo, debemos utilizarla de manera responsable y asegurarnos de que sea segura, confiable y accesible para todos.
+
+
